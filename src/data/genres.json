@@ -1,0 +1,41 @@
+{
+    "names": [
+        "MOBA",
+        "Point-and-click",
+        "Fighting",
+        "Shooter",
+        "Music",
+        "Platform",
+        "Puzzle",
+        "Racing",
+        "Role-playing (RPG)",
+        "Simulation",
+        "Sports",
+        "Strategy",
+        "Tactical",
+        "Turn-based strategy (TBS)",
+        "Visual Novel",
+        "Other",
+        "Card & Board Game"
+    ],
+    "ids": {
+        "MOBA": 36,
+        "Point-and-click": 2,
+        "Fighting": 4,
+        "Shooter": 5,
+        "Music": 7,
+        "Platform": 8,
+        "Puzzle": 9,
+        "Racing": 10,
+        "Role-playing (RPG)": 11,
+        "Simulation": 12,
+        "Sports": 13,
+        "Strategy": 14,
+        "Tactical": 15,
+        "Turn-based strategy (TBS)": 16,
+        "Visual Novel": 17,
+        "Other": 18,
+        "Card & Board Game": 19,
+        "Adventure": 31
+    }
+}
